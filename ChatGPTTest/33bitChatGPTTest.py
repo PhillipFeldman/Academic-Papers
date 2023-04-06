@@ -159,5 +159,6 @@ class Solution:
 
 
 s = Solution()
+#print(s.enforce_32_bit(6463847410))
 #solutions 4,5,6 pass
 print(s.reverse6(-2**31+0))
